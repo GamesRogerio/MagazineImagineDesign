@@ -1,0 +1,2 @@
+# MagazineImagineDesign
+publicação pagina estatica
